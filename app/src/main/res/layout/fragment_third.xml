@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".ThirdFragment">
+
+
+    <EditText
+        android:id="@+id/et_Name"
+        android:hint="NAME"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp" />
+
+    <EditText
+        android:id="@+id/et_Password"
+        android:hint="@string/password"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginHorizontal="40dp" />
+
+    <Button
+        android:id="@+id/btn_Next"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/next"
+        android:textSize="19sp"
+        android:textStyle="italic|bold"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ANDROID_1_LESSON_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">hello home fragment</string>
+    <string name="next">NEXT</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="nexti">NEXT</string>
+</resources>
